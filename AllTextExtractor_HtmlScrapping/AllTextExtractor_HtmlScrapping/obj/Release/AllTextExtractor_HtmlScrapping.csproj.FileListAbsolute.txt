@@ -1,0 +1,11 @@
+C:\Users\shubhamp.GIST\Documents\Visual Studio 2017\Projects\AllTextExtractor_HtmlScrapping\AllTextExtractor_HtmlScrapping\bin\Release\AllTextExtractor_HtmlScrapping.exe.config
+C:\Users\shubhamp.GIST\Documents\Visual Studio 2017\Projects\AllTextExtractor_HtmlScrapping\AllTextExtractor_HtmlScrapping\bin\Release\AllTextExtractor_HtmlScrapping.exe
+C:\Users\shubhamp.GIST\Documents\Visual Studio 2017\Projects\AllTextExtractor_HtmlScrapping\AllTextExtractor_HtmlScrapping\bin\Release\AllTextExtractor_HtmlScrapping.pdb
+C:\Users\shubhamp.GIST\Documents\Visual Studio 2017\Projects\AllTextExtractor_HtmlScrapping\AllTextExtractor_HtmlScrapping\bin\Release\HtmlAgilityPack.dll
+C:\Users\shubhamp.GIST\Documents\Visual Studio 2017\Projects\AllTextExtractor_HtmlScrapping\AllTextExtractor_HtmlScrapping\bin\Release\NUglify.dll
+C:\Users\shubhamp.GIST\Documents\Visual Studio 2017\Projects\AllTextExtractor_HtmlScrapping\AllTextExtractor_HtmlScrapping\bin\Release\HtmlAgilityPack.pdb
+C:\Users\shubhamp.GIST\Documents\Visual Studio 2017\Projects\AllTextExtractor_HtmlScrapping\AllTextExtractor_HtmlScrapping\bin\Release\HtmlAgilityPack.xml
+C:\Users\shubhamp.GIST\Documents\Visual Studio 2017\Projects\AllTextExtractor_HtmlScrapping\AllTextExtractor_HtmlScrapping\bin\Release\NUglify.xml
+C:\Users\shubhamp.GIST\Documents\Visual Studio 2017\Projects\AllTextExtractor_HtmlScrapping\AllTextExtractor_HtmlScrapping\obj\Release\AllTextExtractor_HtmlScrapping.csproj.CoreCompileInputs.cache
+C:\Users\shubhamp.GIST\Documents\Visual Studio 2017\Projects\AllTextExtractor_HtmlScrapping\AllTextExtractor_HtmlScrapping\obj\Release\AllTextExtractor_HtmlScrapping.exe
+C:\Users\shubhamp.GIST\Documents\Visual Studio 2017\Projects\AllTextExtractor_HtmlScrapping\AllTextExtractor_HtmlScrapping\obj\Release\AllTextExtractor_HtmlScrapping.pdb
